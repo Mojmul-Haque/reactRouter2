@@ -1,0 +1,12 @@
+.country:hover{
+    transform: translateY(-10px)
+}
+
+.country{
+    transition: all linear .3s
+}
+
+.MuiCardActions-root{
+    padding: 0 8px 20px !important;
+    justify-content: center;
+}
